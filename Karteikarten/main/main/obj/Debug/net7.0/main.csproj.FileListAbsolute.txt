@@ -1,0 +1,14 @@
+C:\Users\rschillmeier\Desktop\Programme\C#\einfache programme\Karteikarten\main\main\bin\Debug\net7.0\main.exe
+C:\Users\rschillmeier\Desktop\Programme\C#\einfache programme\Karteikarten\main\main\bin\Debug\net7.0\main.deps.json
+C:\Users\rschillmeier\Desktop\Programme\C#\einfache programme\Karteikarten\main\main\bin\Debug\net7.0\main.runtimeconfig.json
+C:\Users\rschillmeier\Desktop\Programme\C#\einfache programme\Karteikarten\main\main\bin\Debug\net7.0\main.dll
+C:\Users\rschillmeier\Desktop\Programme\C#\einfache programme\Karteikarten\main\main\bin\Debug\net7.0\main.pdb
+C:\Users\rschillmeier\Desktop\Programme\C#\einfache programme\Karteikarten\main\main\obj\Debug\net7.0\main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rschillmeier\Desktop\Programme\C#\einfache programme\Karteikarten\main\main\obj\Debug\net7.0\main.AssemblyInfoInputs.cache
+C:\Users\rschillmeier\Desktop\Programme\C#\einfache programme\Karteikarten\main\main\obj\Debug\net7.0\main.AssemblyInfo.cs
+C:\Users\rschillmeier\Desktop\Programme\C#\einfache programme\Karteikarten\main\main\obj\Debug\net7.0\main.csproj.CoreCompileInputs.cache
+C:\Users\rschillmeier\Desktop\Programme\C#\einfache programme\Karteikarten\main\main\obj\Debug\net7.0\main.dll
+C:\Users\rschillmeier\Desktop\Programme\C#\einfache programme\Karteikarten\main\main\obj\Debug\net7.0\refint\main.dll
+C:\Users\rschillmeier\Desktop\Programme\C#\einfache programme\Karteikarten\main\main\obj\Debug\net7.0\main.pdb
+C:\Users\rschillmeier\Desktop\Programme\C#\einfache programme\Karteikarten\main\main\obj\Debug\net7.0\main.genruntimeconfig.cache
+C:\Users\rschillmeier\Desktop\Programme\C#\einfache programme\Karteikarten\main\main\obj\Debug\net7.0\ref\main.dll
